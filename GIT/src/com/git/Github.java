@@ -7,5 +7,7 @@ public class Github {
 	String z = "Hola";
 	
 	String y = "Hola";
+	
+	String a = "Hi";
 
 }
