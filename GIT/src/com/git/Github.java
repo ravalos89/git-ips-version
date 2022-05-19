@@ -10,4 +10,5 @@ public class Github {
 	
 	String a = "Hi";
 
+	String b;
 }
