@@ -10,5 +10,5 @@ public class Github {
 	
 	String a = "Hi";
 
-	String b;
+	String b = "Hello2";
 }
