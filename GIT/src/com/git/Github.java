@@ -11,4 +11,6 @@ public class Github {
 	String a = "Hi";
 
 	String b = "Hello2";
+	
+	String message = "Hola soy Ricardo Dev 1";
 }
