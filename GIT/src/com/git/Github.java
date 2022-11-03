@@ -15,4 +15,6 @@ public class Github {
 	String message = "Hola soy Ricardo Dev 1";
 	
 	String message2= "Este es el nuevo cambio";
+	
+	String message3= "Este es el mensaje con stash";
 }
